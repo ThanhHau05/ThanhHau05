@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhhau05&label=Profile%20views&color=0e75b6&style=flat" alt="thanhhau05" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thanhhau05" alt="thanhhau05" /></a> </p>
-
 - 🌱 I’m currently learning **NextJS, Typescript and TailwindCSS**
 
 - 📫 How to reach me **nguyenthanhhau.contact@gmail.com**
