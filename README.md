@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nguyenthanhhau.contact@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/thanhhau05/](https://www.linkedin.com/in/thanhhau05/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/thanhhau05](https://www.linkedin.com/in/thanhhau05)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
