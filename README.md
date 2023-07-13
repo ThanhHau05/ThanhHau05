@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhhau05&label=Profile%20views&color=0e75b6&style=flat" alt="thanhhau05" /> </p>
 
-- 🌱 I’m currently learning **NextJS, Typescript and TailwindCSS**
+- 🌱 I’m currently learning **React, NextJS, Typescript and TailwindCSS**
 
 - 📫 How to reach me **nguyenthanhhau.dev@gmail.com**
 
