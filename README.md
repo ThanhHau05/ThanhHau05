@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJS, Typescript and TailwindCSS**
 
-- 📫 How to reach me **nguyenthanhhau.contact@gmail.com**
+- 📫 How to reach me **nguyenthanhhau.dev@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/thanhhau05](https://www.linkedin.com/in/thanhhau05)
 
