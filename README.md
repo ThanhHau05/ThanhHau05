@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Thanh Hau</h1>
-<h3 align="center">I am a student at Che Guevara High School, and I am preparing for the national high school graduation exam.</h3>
+<h3 align="center">I was born in 2005, and I'm currently 18 years old. I am preparing to enter university this year. During my 12th grade studies, I have been learning React and NextJS for a year up until now. I have also become proficient in Typescript and TailwindCSS while working on my projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhhau05&label=Profile%20views&color=0e75b6&style=flat" alt="thanhhau05" /> </p>
 
