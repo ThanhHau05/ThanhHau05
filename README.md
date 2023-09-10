@@ -22,3 +22,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanhhau05&show_icons=true&locale=en&layout=compact" alt="thanhhau05" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhhau05&show_icons=true&locale=en" alt="thanhhau05" /></p>
+
+<h3 align="center">Coding Progress: Follow the Devouring Snake</h3>
+<div align="center">
+<img src="https://github.com/ThanhHau05/ThanhHau05/blob/output/github-contribution-grid-snake-dark.svg" />
+</div>
